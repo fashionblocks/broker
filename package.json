@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@imtbl/imx-contracts": "^1.0.0",
+    "@openzeppelin/contracts": "^4.0.0",
+    "abi-decoder": "^2.4.0",
+    "truffle-contract-size": "^2.0.1"
+  }
+}
